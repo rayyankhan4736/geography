@@ -3,3 +3,5 @@ mumbai
 banglore
 delhi
 kolkata
+goa
+secundrabad
